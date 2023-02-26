@@ -38,8 +38,8 @@ in the Order history window.
 
 ## Screenshots
 <div>
-<img src="https://user-images.githubusercontent.com/76206862/221422877-34dc2af9-b86c-4d46-b0a8-92e534141304.jpeg" width="420" height="250" />
-<img src="https://user-images.githubusercontent.com/76206862/221422497-2c2b215b-5eee-4420-8735-335c661abedd.jpeg" width="420" height="250" />
+<img src="https://user-images.githubusercontent.com/76206862/221422877-34dc2af9-b86c-4d46-b0a8-92e534141304.jpeg" width="380" height="210" />
+<img src="https://user-images.githubusercontent.com/76206862/221422497-2c2b215b-5eee-4420-8735-335c661abedd.jpeg" width="380" height="210" />
 <div/>
 
 <div>
