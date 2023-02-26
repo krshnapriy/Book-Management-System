@@ -43,18 +43,18 @@ in the Order history window.
 <div/>
 
 <div>
-<img src="https://user-images.githubusercontent.com/76206862/221422978-d8d21c76-85ad-48a7-b44b-857c0a431a34.jpeg" width="420" height="250" />
-<img src="https://user-images.githubusercontent.com/76206862/221422991-f8742b1f-3fd6-4e4e-b55e-3f1083e9e9d4.jpeg" width="420" height="250" />
+<img src="https://user-images.githubusercontent.com/76206862/221422978-d8d21c76-85ad-48a7-b44b-857c0a431a34.jpeg" width="380" height="210" />
+<img src="https://user-images.githubusercontent.com/76206862/221422991-f8742b1f-3fd6-4e4e-b55e-3f1083e9e9d4.jpeg" width="380" height="210" />
 <div/>
 
 <div>
-<img src="https://user-images.githubusercontent.com/76206862/221423002-4d16d72f-8f92-4659-8e10-a91ea0889a28.jpeg" width="420" height="250" />
-<img src="https://user-images.githubusercontent.com/76206862/221424409-3ed9320e-f982-4e95-b291-f2cc55d0798d.jpeg" width="420" height="250" />
+<img src="https://user-images.githubusercontent.com/76206862/221423002-4d16d72f-8f92-4659-8e10-a91ea0889a28.jpeg" width="380" height="210" />
+<img src="https://user-images.githubusercontent.com/76206862/221424409-3ed9320e-f982-4e95-b291-f2cc55d0798d.jpeg" width="380" height="210" />
 <div/>
 
 <div>
-<img src="https://user-images.githubusercontent.com/76206862/221424418-c411bccd-f8e9-44c1-9bf2-21c724ff50c4.jpeg" width="420" height="250" />
-<img src="https://user-images.githubusercontent.com/76206862/221424425-35d5e308-dbca-4849-a0d6-adde03ccd914.jpeg" width="420" height="250" />
+<img src="https://user-images.githubusercontent.com/76206862/221424418-c411bccd-f8e9-44c1-9bf2-21c724ff50c4.jpeg" width="380" height="210" />
+<img src="https://user-images.githubusercontent.com/76206862/221424425-35d5e308-dbca-4849-a0d6-adde03ccd914.jpeg" width="380" height="210" />
 <div/>
 
 
